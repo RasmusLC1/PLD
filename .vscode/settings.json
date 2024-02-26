@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "inttypes.h": "c",
+        "xutility": "c",
+        "iterator": "c",
+        "xmemory": "c",
+        "complex": "c",
+        "system_error": "c",
+        "type_traits": "c",
+        "xtr1common": "c"
+    }
+}
