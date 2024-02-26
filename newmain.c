@@ -11,7 +11,7 @@
 #define __STDC_FORMAT_MACROS
 #include <inttypes.h>
 
-uint64_t heap[200]; /* deliberately small heap, don't change size it's hardcoded */
+uint64_t heap[200]; /* deliberately small heap, don't change size it's hardcoded*/
 uint64_t *heapStart = heap;
 uint64_t *heapEnd = heap+199;
 
